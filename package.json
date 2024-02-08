@@ -1,0 +1,27 @@
+{
+  "name": "randomm-string-msg",
+  "version": "1.0.0",
+  "description": "Random String Mesages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auram91/randomm-string-msg.git"
+  },
+  "keywords": [],
+  "author": "Aura Maria Sanclemente Vargas <aurasanclemente@hotmail.com>  ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Auram91/randomm-string-msg/issues"
+  },
+  "homepage": "https://github.com/Auram91/randomm-string-msg#readme",
+  "bin": {
+    "randomm-string-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
